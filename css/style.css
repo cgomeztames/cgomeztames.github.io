@@ -31,9 +31,8 @@ h1{
 	display: block;
 	background: #6495ED;
 	height: 12px;
-	margin: 0;
-    padding: 20px;
-    font-weight: bold;
+	margin-left: 20px;
+	margin_right: 20px;
 	
 }
 .subtitle2{
