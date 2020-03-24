@@ -22,26 +22,24 @@ h1{
 	font-weight: 900;
 	color: #6495ED;
 	font-size: 25px;
-	margin: 0;
-    padding: 20px;
-    font-weight: bold;
+	margin-right: 40px;
+	margin-left: 40px;
     
 }
 .hr{
 	display: block;
 	background: #6495ED;
 	height: 12px;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
 	
 }
 .subtitle2{
 	font-family: arial;
 	text-align: justify;
 	font-size: 20px;
-	margin: 0;
-    padding: 20px;
-    font-weight: bold;
+	margin-right: 40px;
+	margin-left: 40px;
 }
 .title3{
 	font-family: arial;
@@ -50,4 +48,22 @@ h1{
 	font-weight: normal;
 	font-weight: bold;
 	font-weight: 900;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+.subtitle3{
+	font-family: arial;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 60px;
+	margin-left: 60px;
+}
+.subtitle4{
+	font-family: arial;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 40px;
+	margin-left: 40px;
+	color: #81D8D0;
+	font-style: italic;
 }
